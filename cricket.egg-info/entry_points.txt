@@ -1,0 +1,2 @@
+[console_scripts]
+cricket = game_files.main:play_game

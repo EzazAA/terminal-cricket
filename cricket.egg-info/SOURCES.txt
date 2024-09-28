@@ -1,0 +1,9 @@
+setup.py
+cricket.egg-info/PKG-INFO
+cricket.egg-info/SOURCES.txt
+cricket.egg-info/dependency_links.txt
+cricket.egg-info/entry_points.txt
+cricket.egg-info/requires.txt
+cricket.egg-info/top_level.txt
+game_files/__init__.py
+game_files/main.py
