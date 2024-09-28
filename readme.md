@@ -1,4 +1,3 @@
-Here's a clean, well-structured version of your `README.md` file for your cricket terminal game:
 
 ---
 
