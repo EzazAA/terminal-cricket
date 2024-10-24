@@ -88,7 +88,7 @@ runs_cpu = 0
 # Determine who bats or bowls first
 toss_output = decide_toss()
 
-def play_game():
+def play_game()z
     """Main function to execute the game flow."""
     if toss_output == 1:
         perform_user_batting()
